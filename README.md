@@ -3,7 +3,7 @@ Matthew Idle
 University of Minnesota Data Analytics and Visualization Bootcamp
 September 2023 - March 2024
 
-This challenge was easier than the Tableau Challenge that oddly enough put me through the ringer. The starter code was prety well commented, so there really wasn't much to add to it without muddying the waters. The book cited below by Aurélien Géron helped explain the prinicples in more detail. There were five or so questions along the way, and the answers are provided in the jupyter notebook.
+This challenge was easier than the Tableau Challenge that oddly enough put me through the ringer. The starter code was prety well commented, so there really wasn't much to add to it without muddying the waters. I did set the KMeans random_state parameter to random_state=7, to make the centroid initialization more deterministic and troubleshooting easier. The book cited below by Aurélien Géron helped explain the prinicples in more detail. There were five or so questions along the way, and the answers are provided in the jupyter notebook.
 
 References:
 Géron, Aurélien. Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems. O’Reilly Media, 2019. 
